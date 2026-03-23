@@ -14,5 +14,5 @@
 7. Run the CLI:
 
   ```bash
-  uv run plane_to_jira/cli.py
+  uv run plane-to-jira
   ```
